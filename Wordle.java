@@ -171,5 +171,5 @@ public class Wordle {
         // It's good practice to close the standard input object, although not strictwly
         // necessary for this simple program
         inp.close();
-    }
+    }
 }
